@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://img.shields.io/static/v1?label=a&message=v1.1.1&color=red&style=for-the-badge&logo=https://simpleicons.org/icons/javascript.svg
 
 <!--
 **gmendes0/gmendes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
