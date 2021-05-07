@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h3>Technologies</h3>
-
 ![Badge](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
 ![Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
 ![Badge](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
