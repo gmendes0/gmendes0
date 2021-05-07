@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<hr/>
 <h3>Technologies</h3>
-<hr/>
 
 ![Badge](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
 ![Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
